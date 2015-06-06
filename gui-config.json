@@ -1,0 +1,30 @@
+{
+"configs" : [
+  {
+"server" : "US.SSSERVER.PW",
+"server_port" : 8989,
+"password" : "19604787",
+"method" : "aes-256-cfb",
+"remarks" : "每6小时更换一次密码"}
+,
+  {
+"server" : "104.238.183.31",
+"server_port" : 1789,
+"password" : "123_FUCK_gfw",
+"method" : "aes-192-cfb",
+"remarks" : "1TB"}
+,
+  {
+"server" : "45.63.124.208",
+"server_port" : 1789,
+"password" : "123_FUCK_gfw",
+"method" : "aes-192-cfb",
+"remarks" : "200GB"}
+
+],
+"index" : 2,
+"global" : false,
+"enabled" : true,
+"shareOverLan" : false,
+"isDefault" : false,
+"localPort" : 1080}
